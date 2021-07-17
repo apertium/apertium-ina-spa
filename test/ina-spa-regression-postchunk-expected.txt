@@ -1,0 +1,10 @@
+[3HXrkWzjEc7z#0] ^el<det><def><f><sg>$ ^mujer<n><f><sg>$
+[/3HXrkWzjEc7z]
+[CNnLe2CFroK4#0] ^mujer<n><f><sg>$ ^cierto<adj><f><sg>$
+[/CNnLe2CFroK4]
+[HgAPaGySgH55#0] ^el<det><def><f><sg>$ ^mujer<n><f><sg>$ ^pensar<vblex><pri><p3><sg>$
+[/HgAPaGySgH55]
+[amvTMffBpT0n#0] ^Yo<prn><tn><p1><mf><sg>$ ^pensar<vblex><pri><p1><sg>$
+[/amvTMffBpT0n]
+[mJmrgzgOiEwZ#0] ^mujer<n><f><sg>$
+[/mJmrgzgOiEwZ]

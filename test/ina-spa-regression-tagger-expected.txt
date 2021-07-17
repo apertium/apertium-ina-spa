@@ -1,0 +1,10 @@
+[3HXrkWzjEc7z#0] ^le<det><def><sp>$ ^femina<n><sg>$
+[/3HXrkWzjEc7z]
+[CNnLe2CFroK4#0] ^femina<n><sg>$ ^certe<adj>$
+[/CNnLe2CFroK4]
+[HgAPaGySgH55#0] ^le<det><def><sp>$ ^femina<n><sg>$ ^pensar<vblex><pri>$
+[/HgAPaGySgH55]
+[amvTMffBpT0n#0] ^Io<prn><p1><mf><sg><nom>$ ^pensar<vblex><pri>$
+[/amvTMffBpT0n]
+[mJmrgzgOiEwZ#0] ^femina<n><sg>$
+[/mJmrgzgOiEwZ]

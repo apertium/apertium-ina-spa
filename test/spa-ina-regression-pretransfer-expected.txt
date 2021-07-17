@@ -1,0 +1,14 @@
+[2ZDzTwkY644G#0] ^Cantar<vblex><ger>$
+[/2ZDzTwkY644G]
+[8ItzuKUC16PF#0] ^El<det><def><f><sg>$ ^mujer<n><f><sg>$
+[/8ItzuKUC16PF]
+[D5IajBE3NpNi#0] ^Yo<prn><tn><p1><mf><sg>$ ^pensar<vblex><pri><p1><sg>$
+[/D5IajBE3NpNi]
+[KxttSqYEr5Y7#0] ^Cinco<num><mf><sp>$
+[/KxttSqYEr5Y7]
+[SG0j9Nf-fk6g#0] ^El<det><def><f><sg>$ ^mujer<n><f><sg>$ ^cierto<adj><f><sg>$
+[/SG0j9Nf-fk6g]
+[iF8KgP_Slmmf#0] ^Cierto<adj><f><sg>$
+[/iF8KgP_Slmmf]
+[v_z-gLK4cX00#0] ^Vosotros<prn><tn><p2><m><pl>$
+[/v_z-gLK4cX00]

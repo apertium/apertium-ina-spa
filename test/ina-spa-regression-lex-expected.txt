@@ -1,0 +1,10 @@
+[3HXrkWzjEc7z#0] ^le<det><def><sp>/el<det><def><nd><gd>$ ^femina<n><sg>/mujer<n><f><sg>$
+[/3HXrkWzjEc7z]
+[CNnLe2CFroK4#0] ^femina<n><sg>/mujer<n><f><sg>$ ^certe<adj>/cierto<adj>$
+[/CNnLe2CFroK4]
+[HgAPaGySgH55#0] ^le<det><def><sp>/el<det><def><nd><gd>$ ^femina<n><sg>/mujer<n><f><sg>$ ^pensar<vblex><pri>/pensar<vblex><pri>/soñar<vblex><pri>$
+[/HgAPaGySgH55]
+[amvTMffBpT0n#0] ^Io<prn><p1><mf><sg><nom>/Yo<prn><tn><p1><mf><sg>$ ^pensar<vblex><pri>/pensar<vblex><pri>/soñar<vblex><pri>$
+[/amvTMffBpT0n]
+[mJmrgzgOiEwZ#0] ^femina<n><sg>/mujer<n><f><sg>$
+[/mJmrgzgOiEwZ]

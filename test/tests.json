@@ -1,0 +1,10 @@
+{
+    "ina-spa-regression": {
+        "input": "ina-spa-regression-input.txt",
+        "mode": "ina-spa"
+    },
+    "spa-ina-regression": {
+        "input": "spa-ina-regression-input.txt",
+        "mode": "spa-ina"
+    }
+}

@@ -1,0 +1,14 @@
+[2ZDzTwkY644G#0] ^<vblex><pprs>$
+[/2ZDzTwkY644G]
+[8ItzuKUC16PF#0] ^Le<det><def><sp>$ ^<n><sg>$
+[/8ItzuKUC16PF]
+[D5IajBE3NpNi#0] ^Io<prn><p1><mf><sg><nom>$ ^<vblex><pri>$
+[/D5IajBE3NpNi]
+[KxttSqYEr5Y7#0] ^<num>$
+[/KxttSqYEr5Y7]
+[SG0j9Nf-fk6g#0] ^Le<det><def><sp>$ ^<n><sg>$ ^<adj>$
+[/SG0j9Nf-fk6g]
+[iF8KgP_Slmmf#0] ^<adj>$
+[/iF8KgP_Slmmf]
+[v_z-gLK4cX00#0] ^Vos<prn><p2><mf><pl><nom>$
+[/v_z-gLK4cX00]
